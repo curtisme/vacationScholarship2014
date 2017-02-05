@@ -1,2 +1,2 @@
 # vacationScholarship2014
-old code during my time as a Vacation Scholar in the Melbourne Uni Maths Department
+In the summer of 2014/15 I had the pleasure of participating in a cool program run by the maths department. I did a mini research project under the supervision of A/Prof. Craig Hodgson and Dr. Neil Hoffman about some arcane topic from the realm of hyperbolic geometry. It ended up being useful to numerically approximate maxima of piecewise differentiable functions in fairly high dimensions, where the maxima where guaranteed to occur at non-differentiable points. This was my attempt to write code to do that from scratch, I've uploaded it as I've found it and can't recall what state I left it in, perhaps it doesn't even compile?
